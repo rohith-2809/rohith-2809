@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/rohith-2809">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:rohithvitteamraj@gmail.com">
@@ -47,8 +47,8 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohithVittamraj&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohithVittamraj&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohith-2809&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-2809&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithVittamraj&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-2809&theme=tokyo-night"/>
 </p>
 
 ---
