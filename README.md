@@ -73,7 +73,7 @@ Core areas of work:
 
 ## Selected Engineering Work
 
-### MEDISCOPE (Public)
+### MEDISCOPE 
 
 AI-powered medical interpretation platform integrating deep learning and LLM-based analysis.
 
@@ -107,7 +107,8 @@ Designed an authority-rooted AI operating framework.
 - RAG memory integration
 - Controlled system execution layer
 - Modular AI inference architecture
-
+- Defense-Kernel Integrated Security
+- Controlled Execution Framework
 ---
 
 ### DocuAgent – AI Documentation Automation Platform
@@ -142,9 +143,9 @@ Designed an authority-rooted AI operating framework.
 - Scalable Agentic AI Systems  
 - LLM Workflow Automation  
 - AI Infrastructure Engineering  
-- Financial NLP & Applied ML  
+- Financial NLP & Applied ML 
 - Production-Ready System Design  
-
+- Image Processing & Applied DL
 ---
 
 <p align="center">
