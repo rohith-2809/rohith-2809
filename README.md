@@ -9,35 +9,38 @@
     <img src="https://img.shields.io/badge/LinkedIn-Rohith_Vittamraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://rohiths-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems;LLM+Integration+%7C+Microservices+Architecture;Production-Ready+Machine+Learning+Pipelines;AI+%2B+Full+Stack+Engineering" />
 </p>
 
 ---
 
-## Professional Summary
+## Professional Profile
 
-Full Stack Engineer specializing in AI-integrated systems and scalable software architectures.  
-Experienced in building production-ready applications using the MERN stack and deploying machine learning models into real-world systems.
+Engineer focused on architecting intelligent, production-grade systems that combine scalable backend infrastructure with applied machine learning.
 
-Focused on:
+Core areas of work:
 
-- Large Language Model (LLM) integration
-- Agentic AI architectures
-- Microservices-based system design
-- End-to-end AI deployment pipelines
-- Scalable backend infrastructure
+- Large Language Model orchestration
+- Agentic AI system design
+- AI-integrated web platforms
+- Microservices-based architectures
+- End-to-end ML deployment pipelines
 
 ---
 
-## Technical Expertise
+## Technical Stack
 
-### Programming Languages
+### Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### Full Stack Development
+### Full Stack Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
 </p>
@@ -45,69 +48,87 @@ Focused on:
 ### AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-- scikit-learn  
 - NumPy  
 - Pandas  
 - OpenCV  
 - Model Evaluation & Optimization  
-- AI/ML Deployment Pipelines  
+- NLP & Sentiment Analysis  
 
-### Infrastructure & Tooling
+### Infrastructure & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,gcp" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
-- REST API Architecture  
+- RESTful API Architecture  
 - Microservices Integration  
-- Cloud Deployment (Render / Vercel)  
-- Version Control & CI/CD  
+- Cloud Deployment (Render, GCP)  
+- CI/CD & Version Control  
 
 ---
 
-## Selected Projects
+## Selected Engineering Work
+
+### MEDISCOPE (Public)
+
+AI-powered medical interpretation platform integrating deep learning and LLM-based analysis.
+
+- X-ray anomaly detection (TensorFlow-based CNN)
+- Lab report OCR + structured interpretation
+- Gemini-powered medical reasoning interface
+- MERN gateway with Python microservices
+- Real-time processing architecture
+
+---
+
+### financial_sentiment_trainer
+
+Multilingual financial sentiment classification system using transformer architectures.
+
+- XLM-RoBERTa-based model
+- 14k sentence financial dataset
+- 5-Fold Cross Validation
+- Performance benchmarking (MAE, R², Accuracy metrics)
+- TensorFlow training pipeline
+
+Focused on building deployable financial NLP systems.
+
+---
 
 ### ORION – Sovereign AI Operating Layer
-Architected an agentic AI system focused on controlled reasoning and secure execution.
 
-- LLM orchestration layer
-- RAG-based memory integration
-- Authority-rooted execution framework
-- Modular microservice design
+Designed an authority-rooted AI operating framework.
+
+- Agentic reasoning orchestration
+- RAG memory integration
+- Controlled system execution layer
+- Modular AI inference architecture
 
 ---
 
 ### DocuAgent – AI Documentation Automation Platform
-Designed and implemented an AI-driven documentation engine.
 
-- Automated report and presentation generation
-- Multi-format document pipeline
-- LLM-powered semantic structuring
-- MERN + Microservices architecture
+- Automated report & slide generation
+- Multi-format output pipeline
+- LLM-powered structural synthesis
+- MERN + Microservices backend
 
 ---
 
-### Employee Management System (EMS)
-Developed a secure, role-based workforce management platform.
+### Employee Management System
 
-- JWT-based authentication
-- RESTful API architecture
-- Scalable MongoDB data modeling
+- JWT-secured role-based authentication
+- REST API architecture
+- Scalable MongoDB schema design
 - Real-time task lifecycle management
 
 ---
 
-### LeafGuard – Plant Disease Detection
-Built a CNN-based classification system for plant health analysis.
-
-- TensorFlow-based deep learning model
-- 95% classification accuracy
-- Real-time monitoring integration
-
----
-
-## GitHub Metrics
+## Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohith-2809&show_icons=true&theme=default" height="165"/>
@@ -116,16 +137,16 @@ Built a CNN-based classification system for plant health analysis.
 
 ---
 
-## Research & System Design Focus
+## Current Focus
 
-- Agentic AI Systems
-- LLM Workflow Automation
-- AI Infrastructure Engineering
-- Scalable Backend Architecture
-- Applied Machine Learning Systems
+- Scalable Agentic AI Systems  
+- LLM Workflow Automation  
+- AI Infrastructure Engineering  
+- Financial NLP & Applied ML  
+- Production-Ready System Design  
 
 ---
 
 <p align="center">
-  <i>Building scalable intelligent systems with production-grade engineering discipline.</i>
+  <sub>Architecting intelligent systems that bridge research-level AI with real-world deployment.</sub>
 </p>
