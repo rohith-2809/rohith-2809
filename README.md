@@ -73,6 +73,23 @@ Core areas of work:
 
 ## Selected Engineering Work
 
+
+
+
+---
+
+### **LeafGuard – Plant Disease Detection**
+
+Built a CNN-based classification system for plant health analysis.
+
+-Developed a TensorFlow-based deep learning model 
+-Achieved 95% classification accuracy 
+-Integrated real-time monitoring capabilities 
+-Implemented AI-powered treatment recommendations for diseased plants 
+-Provided integrated cure and resource links for plant care 
+
+
+
 ### MEDISCOPE 
 
 AI-powered medical interpretation platform integrating deep learning and LLM-based analysis.
