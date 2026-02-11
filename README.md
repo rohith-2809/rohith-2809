@@ -82,13 +82,13 @@ Core areas of work:
 
 Built a CNN-based classification system for plant health analysis.
 
--Developed a TensorFlow-based deep learning model 
--Achieved 95% classification accuracy 
--Integrated real-time monitoring capabilities 
--Implemented AI-powered treatment recommendations for diseased plants 
--Provided integrated cure and resource links for plant care 
+- Developed a TensorFlow-based deep learning model 
+- Achieved 95% classification accuracy 
+- Integrated real-time monitoring capabilities 
+- Implemented AI-powered treatment recommendations for diseased plants 
+- Provided integrated cure and resource links for plant care 
 
-
+---
 
 ### MEDISCOPE 
 
