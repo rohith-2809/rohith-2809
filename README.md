@@ -1,170 +1,173 @@
 <h1 align="center">Rohith Vittamraj</h1>
-<h3 align="center">Full Stack Engineer | AI/ML Specialist | Intelligent Systems Architect</h3>
+<h3 align="center">Full Stack Engineer • AI Systems Architect • Production ML Engineer</h3>
 
 <p align="center">
   <a href="mailto:rohithvitteamraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rohithvitteamraj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rohith-vittamraj-0ab76a313">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohith_Vittamraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://rohiths-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Project_Showcase-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems;LLM+Integration+%7C+Microservices+Architecture;Production-Ready+Machine+Learning+Pipelines;AI+%2B+Full+Stack+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=2F81F7&center=true&vCenter=true&width=800&lines=Architecting+Production-Grade+AI+Systems;Agentic+AI+%7C+LLM+Orchestration+%7C+Microservices;Scalable+Backend+Infrastructure;Research-Level+AI+→+Real-World+Deployment" />
 </p>
 
 ---
 
-## Professional Profile
+## ⚡ Professional Summary
 
-Engineer focused on architecting intelligent, production-grade systems that combine scalable backend infrastructure with applied machine learning.
+Engineer specializing in **scalable AI-integrated platforms** and **intelligent system architecture**.
 
-Core areas of work:
+I design systems where:
 
-- Large Language Model orchestration
-- Agentic AI system design
-- AI-integrated web platforms
-- Microservices-based architectures
-- End-to-end ML deployment pipelines
+- Machine Learning meets production reliability  
+- LLMs integrate with structured reasoning pipelines  
+- Backend systems scale under real-world constraints  
+- AI transitions from experimentation to deployment  
+
+> Focused on building systems that are not just intelligent — but deployable, secure, and scalable.
 
 ---
 
-## Technical Stack
+# 🧠 Technical Expertise
 
-### Programming
+## 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### Full Stack Engineering
+## 🌐 Full Stack Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
 </p>
 
-### AI / Machine Learning
+- RESTful API Design  
+- JWT Authentication  
+- Role-Based Access Control  
+- Microservices Communication  
+- Schema Optimization  
+
+## 🤖 AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML_Framework-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformer_Ecosystem-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-- NumPy  
-- Pandas  
-- OpenCV  
-- Model Evaluation & Optimization  
-- NLP & Sentiment Analysis  
+- CNN Architecture Design  
+- Transformer-Based NLP  
+- XLM-RoBERTa Fine-Tuning  
+- Cross Validation & Model Benchmarking  
+- RAG Architecture  
+- LLM Agent Orchestration  
+- Model Evaluation (MAE, R², Accuracy)  
 
-### Infrastructure & Deployment
+## 🚀 Infrastructure & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,gcp" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Render-Cloud_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
-- RESTful API Architecture  
-- Microservices Integration  
-- Cloud Deployment (Render, GCP)  
-- CI/CD & Version Control  
+- Cloud Deployment (GCP, Render)  
+- Containerization (Docker)  
+- CI/CD Pipelines  
+- Scalable Backend Infrastructure  
+- Secure Execution Environments  
 
 ---
 
-## Selected Engineering Work
-
-
-
+# 🏗 Engineering Work
 
 ---
 
-### **LeafGuard – Plant Disease Detection**
+## 🌿 LeafGuard – AI Plant Disease Detection
 
-Built a CNN-based classification system for plant health analysis.
-
-- Developed a TensorFlow-based deep learning model 
-- Achieved 95% classification accuracy 
-- Integrated real-time monitoring capabilities 
-- Implemented AI-powered treatment recommendations for diseased plants 
-- Provided integrated cure and resource links for plant care 
+- CNN-based TensorFlow architecture  
+- 95% classification accuracy  
+- Real-time disease detection  
+- AI-driven treatment recommendations  
+- Integrated plant-care knowledge resources  
 
 ---
 
-### MEDISCOPE 
+## 🏥 MEDISCOPE – AI Medical Interpretation Platform
 
-AI-powered medical interpretation platform integrating deep learning and LLM-based analysis.
-
-- X-ray anomaly detection (TensorFlow-based CNN)
-- Lab report OCR + structured interpretation
-- Gemini-powered medical reasoning interface
-- MERN gateway with Python microservices
-- Real-time processing architecture
+- X-ray anomaly detection  
+- Lab report OCR + structured parsing  
+- LLM-based medical reasoning layer  
+- MERN gateway + Python inference microservices  
+- Real-time processing pipeline  
 
 ---
 
-### financial_sentiment_trainer
+## 📊 Financial Sentiment Trainer
 
-Multilingual financial sentiment classification system using transformer architectures.
-
-- XLM-RoBERTa-based model
-- 14k sentence financial dataset
-- 5-Fold Cross Validation
-- Performance benchmarking (MAE, R², Accuracy metrics)
-- TensorFlow training pipeline
-
-Focused on building deployable financial NLP systems.
+- XLM-RoBERTa transformer model  
+- 14k multilingual financial dataset  
+- 5-Fold Cross Validation  
+- Performance benchmarking pipeline  
+- Deployable NLP inference system  
 
 ---
 
-### ORION – Sovereign AI Operating Layer
+## 🛡 ORION – Sovereign AI Operating Layer
 
-Designed an authority-rooted AI operating framework.
-
-- Agentic reasoning orchestration
-- RAG memory integration
-- Controlled system execution layer
-- Modular AI inference architecture
-- Defense-Kernel Integrated Security
-- Controlled Execution Framework
----
-
-### DocuAgent – AI Documentation Automation Platform
-
-- Automated report & slide generation
-- Multi-format output pipeline
-- LLM-powered structural synthesis
-- MERN + Microservices backend
+- Authority-rooted AI execution model  
+- Controlled system-level inference orchestration  
+- RAG memory integration  
+- Secure execution framework  
+- Modular AI kernel architecture  
 
 ---
 
-### Employee Management System
+## 📄 DocuAgent – AI Documentation Automation
 
-- JWT-secured role-based authentication
-- REST API architecture
-- Scalable MongoDB schema design
-- Real-time task lifecycle management
+- Automated report & presentation generation  
+- Multi-format output pipeline  
+- Structured LLM content synthesis  
+- MERN + Python microservices backend  
 
 ---
 
-## Engineering Metrics
+## 👨‍💼 Employee Management System
+
+- JWT-secured authentication  
+- Role-based access control  
+- RESTful API backend  
+- Scalable MongoDB schema  
+- Real-time task lifecycle tracking  
+
+---
+
+# 📊 GitHub Analytics & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-2809&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-2809&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohith-2809&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-2809&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-2809&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
 
-## Current Focus
+# 🎯 Current Engineering Focus
 
-- Scalable Agentic AI Systems  
-- LLM Workflow Automation  
+- Agentic AI Architectures  
+- Production-Grade LLM Systems  
+- Applied Financial NLP  
+- Intelligent Workflow Automation  
 - AI Infrastructure Engineering  
-- Financial NLP & Applied ML 
-- Production-Ready System Design  
-- Image Processing & Applied DL
+- Secure AI System Design  
+
 ---
 
 <p align="center">
-  <sub>Architecting intelligent systems that bridge research-level AI with real-world deployment.</sub>
+  <strong>Engineering Intelligence. Deploying Impact.</strong>
 </p>
