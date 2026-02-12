@@ -9,12 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://rohiths-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Project_Showcase-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=2F81F7&center=true&vCenter=true&width=800&lines=Architecting+Production-Grade+AI+Systems;Agentic+AI+%7C+LLM+Orchestration+%7C+Microservices;Scalable+Backend+Infrastructure;Research-Level+AI+→+Real-World+Deployment" />
 </p>
 
 ---
