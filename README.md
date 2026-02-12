@@ -15,7 +15,7 @@
 
 ---
 
-## ⚡ Professional Summary
+##   Professional Summary
 
 Engineer specializing in **scalable AI-integrated platforms** and **intelligent system architecture**.
 
@@ -30,14 +30,14 @@ I design systems where:
 
 ---
 
-# 🧠 Technical Expertise
+#  Technical Expertise
 
 ## 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-## 🌐 Full Stack Engineering
+##  Full Stack Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
 </p>
@@ -48,7 +48,7 @@ I design systems where:
 - Microservices Communication  
 - Schema Optimization  
 
-## 🤖 AI / Machine Learning
+##  AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://img.shields.io/badge/scikit--learn-ML_Framework-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -63,7 +63,7 @@ I design systems where:
 - LLM Agent Orchestration  
 - Model Evaluation (MAE, R², Accuracy)  
 
-## 🚀 Infrastructure & Deployment
+##  Infrastructure & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,gcp" />
   <img src="https://img.shields.io/badge/Render-Cloud_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
@@ -77,11 +77,11 @@ I design systems where:
 
 ---
 
-# 🏗 Engineering Work
+# Engineering Work
 
 ---
 
-## 🌿 LeafGuard – AI Plant Disease Detection
+##  LeafGuard – AI Plant Disease Detection
 
 - CNN-based TensorFlow architecture  
 - 95% classification accuracy  
@@ -91,7 +91,7 @@ I design systems where:
 
 ---
 
-## 🏥 MEDISCOPE – AI Medical Interpretation Platform
+## MEDISCOPE – AI Medical Interpretation Platform
 
 - X-ray anomaly detection  
 - Lab report OCR + structured parsing  
@@ -101,7 +101,7 @@ I design systems where:
 
 ---
 
-## 📊 Financial Sentiment Trainer
+##  Financial Sentiment Trainer
 
 - XLM-RoBERTa transformer model  
 - 14k multilingual financial dataset  
@@ -111,7 +111,7 @@ I design systems where:
 
 ---
 
-## 🛡 ORION – Sovereign AI Operating Layer
+##  ORION – Sovereign AI Operating Layer
 
 - Authority-rooted AI execution model  
 - Controlled system-level inference orchestration  
@@ -121,7 +121,7 @@ I design systems where:
 
 ---
 
-## 📄 DocuAgent – AI Documentation Automation
+##  DocuAgent – AI Documentation Automation
 
 - Automated report & presentation generation  
 - Multi-format output pipeline  
@@ -130,7 +130,7 @@ I design systems where:
 
 ---
 
-## 👨‍💼 Employee Management System
+##  Employee Management System
 
 - JWT-secured authentication  
 - Role-based access control  
@@ -140,7 +140,7 @@ I design systems where:
 
 ---
 
-# 📊 GitHub Analytics & Contribution Graph
+#  GitHub Analytics & Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohith-2809&show_icons=true&hide_border=true" height="165"/>
@@ -153,7 +153,7 @@ I design systems where:
 
 ---
 
-# 🎯 Current Engineering Focus
+#  Current Engineering Focus
 
 - Agentic AI Architectures  
 - Production-Grade LLM Systems  
