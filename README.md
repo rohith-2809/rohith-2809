@@ -142,10 +142,6 @@ I design systems where:
 
 #  GitHub Analytics & Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-2809&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-2809&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-2809&theme=github-compact&hide_border=true"/>
