@@ -89,7 +89,7 @@ Engineer specializing in **scalable AI-integrated platforms** and **intelligent 
       <p>An automated multi-format report and presentation generation pipeline. Synthesizes structured LLM content via a highly parallelized MERN and Python microservices backend.</p>
     </td>
     <td width="50%">
-      <h3>🏢 Enterprise Management System</h3>
+      <h3>🏢 Employee Management System</h3>
       <p>A scalable organizational backend built on MongoDB. Features strict JWT-secured authentication, Role-Based Access Control (RBAC), and real-time operational task lifecycle tracking.</p>
     </td>
   </tr>
