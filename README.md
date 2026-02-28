@@ -1,165 +1,116 @@
-<h1 align="center">Rohith Vittamraj</h1>
-<h3 align="center">Full Stack Engineer • AI Systems Architect • Production ML Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=180&section=header&text=Rohith%20Vittamraj&fontSize=70&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20Production%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=20" alt="Rohith Vittamraj"/>
 
-<p align="center">
-  <a href="mailto:rohithvitteamraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rohith-vittamraj-0ab76a313">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://rohiths-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  </a>
-</p>
-
----
-
-##   Professional Summary
-
-Engineer specializing in **scalable AI-integrated platforms** and **intelligent system architecture**.
-
-I design systems where:
-
-- Machine Learning meets production reliability  
-- LLMs integrate with structured reasoning pipelines  
-- Backend systems scale under real-world constraints  
-- AI transitions from experimentation to deployment  
-
-> Focused on building systems that are not just intelligent — but deployable, secure, and scalable.
+  <p align="center">
+    <a href="mailto:rohithvitteamraj@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Professional_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/rohith-vittamraj-0ab76a313">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://rohiths-portfolio.onrender.com/">
+      <img src="https://img.shields.io/badge/Portfolio-Live-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-#  Technical Expertise
+## 🎯 Professional Overview
 
-## 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
+Engineer specializing in **scalable AI-integrated platforms** and **intelligent system architecture**. I focus on bridging the gap between cutting-edge machine learning research and robust, enterprise-grade production environments.
 
-##  Full Stack Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
-</p>
+**My engineering philosophy focuses on building systems where:**
+- ⚙️ Machine Learning seamlessly meets production reliability.
+- 🧠 Large Language Models (LLMs) integrate deeply with structured, deterministic reasoning pipelines.
+- 🏗️ Backend microservices scale gracefully under real-world computational constraints.
+- 🚀 AI models transition fluently from localized experimentation to global deployment.
 
-- RESTful API Design  
-- JWT Authentication  
-- Role-Based Access Control  
-- Microservices Communication  
-- Schema Optimization  
+> *"Building systems that are not just artificially intelligent — but demonstrably secure, autonomous, and scalable."*
 
-##  AI / Machine Learning
+---
+
+## 💻 Technical Arsenal
+
+### 🧠 Applied AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://img.shields.io/badge/scikit--learn-ML_Framework-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-Transformer_Ecosystem-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-- CNN Architecture Design  
-- Transformer-Based NLP  
-- XLM-RoBERTa Fine-Tuning  
-- Cross Validation & Model Benchmarking  
-- RAG Architecture  
-- LLM Agent Orchestration  
-- Model Evaluation (MAE, R², Accuracy)  
+*   **Architectures:** CNNs, Transformer-Based NLP, RAG Architecture, LLM Agent Orchestration.
+*   **Engineering:** XLM-RoBERTa Fine-Tuning, Model Benchmarking (MAE, R², Accuracy), K-Fold Cross Validation.
 
-##  Infrastructure & Deployment
+### ⚙️ Full Stack & Systems Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql" />
+</p>
+
+*   **Backend:** RESTful API Design, Microservices Communication, Schema Optimization (NoSQL/SQL).
+*   **Security:** JWT Authentication, Role-Based Access Control (RBAC), Secure Execution Environments.
+
+### ☁️ Infrastructure & Cloud Operations
 <p>
   <img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,gcp" />
   <img src="https://img.shields.io/badge/Render-Cloud_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
-- Cloud Deployment (GCP, Render)  
-- Containerization (Docker)  
-- CI/CD Pipelines  
-- Scalable Backend Infrastructure  
-- Secure Execution Environments  
+*   **Ops:** Docker Containerization, CI/CD Pipeline Design, GCP & Render Deployment, Scalable Backend Infrastructure.
 
 ---
 
-# Engineering Work
+## 🚀 Engineered Solutions
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%">
+      <h3>🌍 ORION: Sovereign AI Operating Layer</h3>
+      <p>A completely modular, offline-capable AI kernel. Features an authority-rooted execution model, controlled system-level inference orchestration, and a secure execution framework backed by local RAG memory integration.</p>
+    </td>
+    <td width="50%">
+      <h3>⚕️ MEDISCOPE: AI Medical Platform</h3>
+      <p>A real-time processing pipeline combining X-ray anomaly detection with lab report OCR/structured parsing. Connects an LLM-based medical reasoning layer to a MERN gateway and Python inference microservices.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📈 Financial Sentiment Trainer</h3>
+      <p>A deployable NLP inference system leveraging a fine-tuned XLM-RoBERTa transformer model. Trained on a 14k multilingual dataset using 5-Fold Cross Validation and rigorous performance benchmarking.</p>
+    </td>
+    <td width="50%">
+      <h3>🌿 LeafGuard: AI Plant Guardian</h3>
+      <p>A CNN-based TensorFlow architecture achieving 95% classification accuracy for real-time plant disease detection. Outputs AI-driven treatment recommendations backed by integrated knowledge bases.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📄 DocuAgent: Automation Engine</h3>
+      <p>An automated multi-format report and presentation generation pipeline. Synthesizes structured LLM content via a highly parallelized MERN and Python microservices backend.</p>
+    </td>
+    <td width="50%">
+      <h3>🏢 Enterprise Management System</h3>
+      <p>A scalable organizational backend built on MongoDB. Features strict JWT-secured authentication, Role-Based Access Control (RBAC), and real-time operational task lifecycle tracking.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-##  LeafGuard – AI Plant Disease Detection
+## 🔬 Current Research & Engineering Horizons
 
-- CNN-based TensorFlow architecture  
-- 95% classification accuracy  
-- Real-time disease detection  
-- AI-driven treatment recommendations  
-- Integrated plant-care knowledge resources  
-
----
-
-## MEDISCOPE – AI Medical Interpretation Platform
-
-- X-ray anomaly detection  
-- Lab report OCR + structured parsing  
-- LLM-based medical reasoning layer  
-- MERN gateway + Python inference microservices  
-- Real-time processing pipeline  
+*   🤖 **Agentic AI Architectures:** Engineering fully autonomous, goal-oriented reasoning frameworks.
+*   ⚡ **Production-Grade LLM Systems:** Optimizing TTFT (Time To First Token) and memory footprints for deployment.
+*   💹 **Applied Financial NLP:** Extracting deep, structured semantic data from high-noise financial streams.
+*   🛡️ **Secure AI System Design:** Building immutable, authority-managed boundaries around model execution.
 
 ---
 
-##  Financial Sentiment Trainer
+## 📊 Objective Analytics
 
-- XLM-RoBERTa transformer model  
-- 14k multilingual financial dataset  
-- 5-Fold Cross Validation  
-- Performance benchmarking pipeline  
-- Deployable NLP inference system  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-2809&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3" alt="GitHub Activity Graph" width="80%"/>
 
----
-
-##  ORION – Sovereign AI Operating Layer
-
-- Authority-rooted AI execution model  
-- Controlled system-level inference orchestration  
-- RAG memory integration  
-- Secure execution framework  
-- Modular AI kernel architecture  
-
----
-
-##  DocuAgent – AI Documentation Automation
-
-- Automated report & presentation generation  
-- Multi-format output pipeline  
-- Structured LLM content synthesis  
-- MERN + Python microservices backend  
-
----
-
-##  Employee Management System
-
-- JWT-secured authentication  
-- Role-based access control  
-- RESTful API backend  
-- Scalable MongoDB schema  
-- Real-time task lifecycle tracking  
-
----
-
-#  GitHub Analytics & Contribution Graph
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-2809&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-#  Current Engineering Focus
-
-- Agentic AI Architectures  
-- Production-Grade LLM Systems  
-- Applied Financial NLP  
-- Intelligent Workflow Automation  
-- AI Infrastructure Engineering  
-- Secure AI System Design  
-
----
-
-<p align="center">
-  <strong>Engineering Intelligence. Deploying Impact.</strong>
-</p>
+  <br><br>
+  <p><b><i>Engineering Intelligence. Deploying Impact.</i></b></p>
+</div>
