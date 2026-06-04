@@ -50,7 +50,7 @@ Engineer specializing in **scalable AI-integrated platforms** and **intelligent 
 *   **Backend:** RESTful API Design, Microservices Communication, Schema Optimization (NoSQL/SQL).
 *   **Security:** JWT Authentication, Role-Based Access Control (RBAC), Secure Execution Environments.
 
-### ☁️ Infrastructure & Cloud Operations
+###  Infrastructure & Cloud Operations
 <p>
   <img src="https://skillicons.dev/icons?i=docker,fastapi,git,linux,gcp" />
   <img src="https://img.shields.io/badge/Render-Cloud_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
@@ -85,7 +85,7 @@ Engineer specializing in **scalable AI-integrated platforms** and **intelligent 
   </tr>
   <tr>
     <td width="50%">
-      <h3>📄 DocuAgent: Automation Engine</h3>
+      <h3> DocuAgent: Automation Engine</h3>
       <p>An automated multi-format report and presentation generation pipeline. Synthesizes structured LLM content via a highly parallelized MERN and Python microservices backend.</p>
     </td>
     <td width="50%">
